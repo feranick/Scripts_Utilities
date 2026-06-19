@@ -1,0 +1,5 @@
+name = "img2ascii"
+description = "Image 2 ASCII generator"
+packages = ["Pillow"]
+
+
